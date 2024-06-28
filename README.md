@@ -32,13 +32,12 @@ Please refer to the [Report](Report.pdf) for implementation details.
   <img src="Output Images\scene5frame351\blender351.png" alt="Image 3 Description" height="300"/>
 </p>
 
+
+
+
 ## Video Results:
 
-https://github.com/miheer-diwan/Einstein-Vision/assets/79761017/3462962d-ac16-4929-baa3-1c572e208ec2
+![Scene 5](https://github.com/miheer-diwan/Einstein-Vision/assets/79761017/48da5b21-1cba-4d27-98d7-d01ac89d39b7)
 
-
-
-
-https://github.com/miheer-diwan/Einstein-Vision/assets/79761017/b53b1ac5-bfec-4089-a7d2-9ebdb08b19a5
-
+![Scene 4](https://github.com/miheer-diwan/Einstein-Vision/assets/79761017/8b76eea0-c92c-4e87-b9c8-9de10583d3ad)
 
