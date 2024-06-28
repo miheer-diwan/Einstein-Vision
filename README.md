@@ -36,7 +36,12 @@ Please refer to the [Report](Report.pdf) for implementation details.
 
 
 ## Video Results:
+Scene 4:
 
-![Scene 5](https://github.com/miheer-diwan/Einstein-Vision/assets/79761017/48da5b21-1cba-4d27-98d7-d01ac89d39b7) ![Scene 4](https://github.com/miheer-diwan/Einstein-Vision/assets/79761017/8b76eea0-c92c-4e87-b9c8-9de10583d3ad)
+![Scene 4](https://github.com/miheer-diwan/Einstein-Vision/assets/79761017/8b76eea0-c92c-4e87-b9c8-9de10583d3ad ) 
+
+Scene 5:
+
+![Scene 5](https://github.com/miheer-diwan/Einstein-Vision/assets/79761017/48da5b21-1cba-4d27-98d7-d01ac89d39b7) 
 
 
