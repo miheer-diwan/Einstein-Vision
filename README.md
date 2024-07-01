@@ -1,5 +1,5 @@
 # Einstein-Vision
-This project leverages classical computer vision and Deep learning techniques to develop a perception stack for autonomous vehicles. Additionally, a Tesla-inspired visualization was also developed using Blender to autnomously recreate a 3D scene from monocular images. 
+This project leverages classical computer vision and deep learning techniques to develop a perception stack for autonomous vehicles using custom monocular images obtained from a Tesla vehicle. A Tesla-inspired visualization was also created using Blender to recreate a 3D scene from monocular images autonomously. 
 
 Please refer to the [Report](Report.pdf) for implementation details.
 
